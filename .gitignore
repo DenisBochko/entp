@@ -37,4 +37,3 @@ config/**/*.yaml
 
 # build dir
 bin/
-cmd/
